@@ -1,0 +1,1 @@
+print(len('''e00ilN4YV7R9N3a6ZzvB G3$'P9)3rq0J9dSz29  &pt)0G''VLBFq8eFpPpi$XnO355I D( '''))
